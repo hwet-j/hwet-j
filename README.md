@@ -3,7 +3,7 @@
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="https://hwet-j.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white&color=blue"/></a></p>
 
-<p align="center">안녕하세요! 벡엔드 개발자에 관심이 있는 신입 개발자입니다.</p>
+<!-- <p align="center">안녕하세요! 벡엔드 개발자에 관심이 있는 신입 개발자입니다.</p> -->
 <br>
 <p align="center"> ✒️ 이름 : 정회창</p>
 <p align="center"> 📆 생년월일 : 1994.01.20</p>
